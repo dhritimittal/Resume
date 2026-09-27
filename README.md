@@ -3,5 +3,5 @@ Welcome to my official resume repository! Here you'll find my latest resume in P
 ---
 ## 📄 Resume
 
-🔗 [Download Resume (PDF)](./resumev1.pdf)
+🔗 [Download Resume (PDF)](./resumev2.pdf)
 ---
